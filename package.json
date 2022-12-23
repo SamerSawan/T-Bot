@@ -1,0 +1,25 @@
+{
+  "name": "t-bot",
+  "version": "1.0.0",
+  "description": "Simple Bot for \"trademarking\" phrases amongst friends",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamerSawan/T-Bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamerSawan/T-Bot/issues"
+  },
+  "homepage": "https://github.com/SamerSawan/T-Bot#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.30.0"
+  }
+}
